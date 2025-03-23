@@ -27,7 +27,4 @@
 ### 📫 How to Reach Me  
 - 📧 Email: harshit2004@example.com  
 - 🔗 LinkedIn: [linkedin.com/in/harshit2004](https://linkedin.com/in/harshit2004)  
-- 🐦 Twitter: [twitter.com/harshit2004](https://twitter.com/harshit2004)  
 
-### ⚡ Fun Fact  
-- 🚴‍♂️ I love adventure and dream of joining the Indian Army someday!  
