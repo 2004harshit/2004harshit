@@ -12,7 +12,6 @@
 
 ### 🌱 Currently Learning  
 - 📊 Machine Learning (Hands-On ML by Aurélien Géron)  
-- 📜 AWS, CI/CD, and DevOps Tools (Jira, Jenkins, Docker)  
 - 🎯 Aptitude and Soft Skills for Placements  
 
 ### 🤝 Looking to Collaborate On  
