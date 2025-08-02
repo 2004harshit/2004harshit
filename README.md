@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Harshit!  
 
 ### 🚀 About Me  
-- 🎓 B.Tech CSE | 6th Semester  
+- 🎓 B.Tech CSE | 7th Semester  
 - 🏆 Aspiring Software Engineer | Machine Learning Enthusiast  
 - 💡 Passionate about DSA, ML, and Core CS Subjects  
 
