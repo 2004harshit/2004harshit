@@ -1,27 +1,20 @@
 ## Hi there 👋, I'm Harshit!  
 
 ### 🚀 About Me  
-- 🎓 B.Tech CSE | 7th Semester  
+- 🎓 B.Tech CSE | 8th Semester  
 - 🏆 Aspiring Software Engineer | Machine Learning Enthusiast  
 - 💡 Passionate about DSA, ML, and Core CS Subjects  
 
 ### 🔭 Currently Working On  
-- 🏡 House Price Prediction (ML Project)  
-- 📌 Strengthening DSA (Striver's Sheet)  
-- 📚 Learning DBMS, OS, and CN for placements  
+- 🏡 Job Market Intelligence System (ML Project)   
+
 
 ### 🌱 Currently Learning  
-- 📊 Machine Learning (Hands-On ML by Aurélien Géron)  
-- 🎯 Aptitude and Soft Skills for Placements  
+- 📊 Machine Learning (NLP , Time Series Forecasting)
 
 ### 🤝 Looking to Collaborate On  
 - 📈 ML Projects | Data Science Applications  
 - ⚡ Open Source Contributions  
-
-### 💬 Ask Me About  
-- 🧩 DSA (Arrays, Sorting, Recursion, DP)  
-- 🤖 ML, Python, Pandas, NumPy, Matplotlib  
-- 🔥 Placement Preparation Strategy  
 
 ### 📫 How to Reach Me  
 - 📧 Email: harshit2004@example.com  
